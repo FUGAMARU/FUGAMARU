@@ -1,6 +1,6 @@
 # Hi, my internet friends! 👋😇
-My name is FUGAMARU and I'm a web application engineer.  
-I started programming in Visual Basic 6.0 when I was in 4th grade. Since then, I have mainly done web front-end development, but I have also developed and released several web services on my own, so I have experience in server-side, networking, and infrastructure.  
+I'm a web application engineer.  
+I started programming in Visual Basic 6.0 when I was ten years old. Since then, I have mainly done web front-end development, but I have also developed and released several web services on my own, so I have experience in server-side, networking, and infrastructure.  
 I ran a server for Minecraft PE.
 
 ## 🛠️ I can use
