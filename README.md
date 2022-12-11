@@ -56,6 +56,8 @@ I ran a server for Minecraft PE.
 </div>
 
 <div align="right">
+  <a href="https://www.city.fujisawa.kanagawa.jp/"><img src="https://user-images.githubusercontent.com/7829486/206897277-04841523-9613-438e-a890-b1033a4c6f8c.png" alt="ふじキュン♡" height="86" width="103"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.pref.saitama.lg.jp/"><img src="https://user-images.githubusercontent.com/7829486/172017390-73275f10-8dad-475d-9ae7-908d5965a4c1.png" alt="©埼玉県2005" height="86" width="100"></a>
 </div>
 
